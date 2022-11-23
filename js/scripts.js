@@ -20,8 +20,12 @@ async function mapImageList() {
             "path": "pictures/ml.gif"
         },
         {
-            "name": "funny-cat1",
-            "path": "pictures/funny-cat1.png"
+            "name": "cry",
+            "path": "pictures/cry.gif"
+        },
+        {
+            "name": "grito",
+            "path": "pictures/gg.gif"
         },
         {
             "name": "happy",
@@ -43,8 +47,30 @@ async function mapImageList() {
             "name": "ail",
             "path": "pictures/ail.gif"
         },
-
-
+        {
+            "name": "monkey",
+            "path": "pictures/monkey.gif"
+        },
+        {
+            "name": "hommer",
+            "path": "pictures/hommer.gif"
+        },
+        {
+            "name": "rick",
+            "path": "pictures/rick.gif"
+        },
+        {
+            "name": "john",
+            "path": "pictures/john.gif"
+        },
+        {
+            "name": "inferno",
+            "path": "pictures/inferno.gif"
+        },
+        {
+            "name": "esquilo",
+            "path": "pictures/esquilo.gif"
+        },
     ]
 
     return memesObject
